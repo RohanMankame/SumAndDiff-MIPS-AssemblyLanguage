@@ -1,6 +1,6 @@
 # This program was 100% made by Rohan Mankame 
 
-# Author: Rohan Mankame and Mete Elbeyli
+# Author: Rohan Mankame 
 # E-mail: rym5387@psu.edu and mbe5290@psu.edu
 # Course: CMPSC 312
 # Assignment: MIPS Programming Project 1
