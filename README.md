@@ -28,4 +28,4 @@ When the program runs in MARS, it will prompt you to enter three integer values:
 
 The program will then calculate the difference and display the result.
 
-## Example
+
